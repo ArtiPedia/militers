@@ -5,5 +5,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Militer
+title: Berita Militer dan Alutsista
 ---
