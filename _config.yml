@@ -1,0 +1,51 @@
+title: Travel (Artipedia)
+author: ArtiPedia
+email: artipedia243@gmail.com
+description: > 
+  Travel blog to inspire and get you motivated
+baseurl: "/"
+url: "https://travel.artipedia.id"
+google_tag_manager: UA-115101359-1
+twitter_username:  
+github_username:  ArtiPedia
+instagram_username:  
+social:
+  name: ArtiPedia
+  links:
+    - https://twitter.com/ 
+    - https://www.facebook.com/ 
+    - https://www.linkedin.com/in/ 
+    - https://plus.google.com/ 
+    - https://github.com/ 
+    - https://keybase.io/ 
+
+disqus:
+  shortname: FirsTravelers
+
+# Build settings
+markdown: kramdown
+highlighter: rouge # or pygments or null
+exclude:
+  - README.md
+  - node_modules
+  - script
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - npm-debug.log
+  - gulpfile.js
+  - sleek.jpg
+
+include: ['_pages']
+permalink: /:categories/:title.html
+
+compress_html:
+  clippings: all
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+encoding: UTF-8
