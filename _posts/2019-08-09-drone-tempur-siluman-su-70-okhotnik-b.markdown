@@ -2,7 +2,7 @@
 layout: post
 title: 'Drone Tempur Siluman SU 70 Okhotnik B Terbang Perdana'
 featured-img: drone-tempur-siluman-su-70-okhotnik-b
-mathjax: true
+mathjax: false
 categories: [rusia, alutsista, drone]
 ---
 
