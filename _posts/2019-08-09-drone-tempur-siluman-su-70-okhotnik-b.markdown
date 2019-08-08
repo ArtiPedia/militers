@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Drone-Tempur-Siluman-SU-70-Okhotnik-B-Terbang-Perdana'
+title: 'Drone Tempur Siluman SU 70 Okhotnik B Terbang Perdana'
 featured-img: drone-tempur-siluman-su-70-okhotnik-b
 mathjax: true
 categories: [rusia, alutsista, drone]
 ---
 
-[MiliPedia]() - Dilansir dari [Sindonews](https://international.sindonews.com/read/1427795/41/drone-tempur-siluman-su-70-okhotnik-b-rusia-terbang-perdana-1565189274 "Sindonews"), Pesawat nirawak atau drone tempur siluman Su-70 Okhotnik-B Rusia telah melakukan penerbangan untuk pertama kalinya. Hal tersebut diumumkan oleh Kementerian Pertahanan setempat dalam sebuah pernyataan pers hari pada Rabu (7/8/2019).
+[MiliPedia](/drone-tempur-siluman-su-70-okhotnik-b.html "Drone Tempur Siluman SU 70 Okhotnik B Terbang Perdana") - Dilansir dari [Sindonews](https://international.sindonews.com/read/1427795/41/drone-tempur-siluman-su-70-okhotnik-b-rusia-terbang-perdana-1565189274 "Sindonews"), Pesawat nirawak atau drone tempur siluman Su-70 Okhotnik-B Rusia telah melakukan penerbangan untuk pertama kalinya. Hal tersebut diumumkan oleh Kementerian Pertahanan setempat dalam sebuah pernyataan pers hari pada Rabu (7/8/2019).
 
 Kementerian Pertahanan Rusia, seperti dikutip TASS, mengatakan penerbangan pertama Su-70 Okhotnik-B terjadi di lapangan terbang militer selama akhir pekan dan berlangsung selama 20 menit.
 
